@@ -19,21 +19,21 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: OHEJP Site Management docs                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: OHEJP Communications Team Site management   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A collection of howtos to support site management
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://username.github.io'
+url: 'https://ohejp.github.io'
 
 github:
   username: Bodge-IT             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: OneHealthEJP            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light  # [light|dark]
+theme_mode:   # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +81,7 @@ theme_mode: light  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/991971637720383489/oIXqjjN2_200x200.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
