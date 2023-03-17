@@ -19,12 +19,12 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: OHEJP Site Management docs                          # the main title
+title: OHEJP Site Management                          # the main title
 
-tagline: OHEJP Communications Team Site management   # it will display as the sub-title
+tagline: OHEJP Communications Team support docs   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A collection of howtos to support site management
+  A collection of howtos to support site management for the OHEJP Communications team
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ohejp.github.io'
