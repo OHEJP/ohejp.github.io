@@ -1,7 +1,8 @@
 ---
 title: 'Cleaning up the Admin interface'
+date: 2023-04-20 09:00:00
 category: 'Getting Started'
-tags: [admin,back-end]
+tags: [admin,backend]
 ---
 
 
