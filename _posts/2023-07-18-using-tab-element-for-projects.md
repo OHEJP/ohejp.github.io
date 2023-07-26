@@ -1,7 +1,7 @@
 ---
 title: 'Using the Tab element for Projects'
 date: 2023-04-20 09:00:00 
-category: 'Pages content'
+category: 'Posts & Pages'
 tags: [projects,pages,pagebuilder]
 ---
 
