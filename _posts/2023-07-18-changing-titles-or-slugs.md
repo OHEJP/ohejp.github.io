@@ -30,4 +30,4 @@ By clicking on the "Create redirect" button, you will open this interface:
 ![Create Redirect Dialogue](/assets/img/2023-07-27 14_20_37 - Add New redirection.jpg)
 
 To create the redirect, the default settings should be OK but ensure the two highlighted options are enabled, before 
-pressing Publish to confirm.
+pressing Publish to confirm
