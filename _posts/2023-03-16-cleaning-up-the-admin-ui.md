@@ -12,4 +12,3 @@ To help clean up the Admin area we've installed a plugin that allows for each us
 Following login to the Admin area, please take a second or two to "Turn off' notices that are not needed.
 
 ![Snip of Hide me tool](/assets/img/Screenshot_2023-03-16_151001.png){: style="width:300px;"  .right}
-
