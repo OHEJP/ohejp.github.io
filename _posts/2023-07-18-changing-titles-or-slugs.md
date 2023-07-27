@@ -12,10 +12,13 @@ Once a post or page has been created, following a slight delay, the content will
 The permalink is made up of the site domain and the category that the content is placed in.  the slug is made up from the title of post/page (lower-cased and special characters replaced by '-'):
 ![Standard permalink for a post](/assets/img/2023-07-27 13_47_51-Edit Post - Learn more about One Health topics for One Health Awareness Month.jpg)
 
-e.g. A newsletter post, placed in the News/Newsletter category, will have a permalink of https://domainname.com/news/newsletter/
-The slug is appended to this, like so: https://domainname.com/news/newsletter/the-name-of-the-post
+e.g. A newsletter post, placed in the News/Newsletter category, will have a permalink of 
+`https://domainname.com/news/newsletter/`
+The slug is appended to this, like so: 
+`https://domainname.com/news/newsletter/the-name-of-the-post`
 
-If you must change the title of a post or page then you should conbsider if you can just change the title without changing the slug.
+> Changing the slug of a page that has been indexed, can lose the ranking associated with that page and cause a 404 error for users with bookmarks to the old url.{: .prompt-warning }
+If you must change the title of a post or page then you should consider if you can just change the title without changing the slug.
 
 Changing the Title is straightforward, just change it directly in the Title field.  It is OK to change the post/page title without changing the slug BUT if the new title is more descriptive and contains more contextual clues for the type of content, then changing the slug is appropriate.
 
