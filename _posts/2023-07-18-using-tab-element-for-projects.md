@@ -31,7 +31,7 @@ Too add another tab, simply click the "+" in the last tab to the right:
 ![Add an additional tab](/assets/img/2023-07-28 09_29_52 - Edit Page BIOPIGEE - add tab.jpg)
 
 Finally we need to add content into that tab.  To do this we add a bespoke Text Area element specifically for this use case, make sure to click the right "+":
-![Adding content to the tab](/assets/img2023-07-28 09_35_17 - Edit Page BIOPIGEE - add element to tab.jpg)
+![Adding content to the tab](/assets/img/2023-07-28 09_35_17 - Edit Page BIOPIGEE - add element to tab.jpg)
 
 Clicking the "+" 'add element' button once again opens the Element selector dialogue and in My Elements, select the text area element for this use case:
 ![Pre-configured Text Area](/assets/img/2023-07-28 09_12_40 - Edit Page BIOPIGEE-otherelement.jpg)
