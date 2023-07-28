@@ -15,7 +15,8 @@ Using the WPBakery pagebuild editor is quite straight forward.  The content is m
 The tricky aspect of WPBakery is making sure you pleace the elements in the right place.  For this Tabbed area, it sits at the bottom of the page, so you can add it as the last elelement by clicking the the last "+" shown here:
 ![Add element button](/assets/img/2023-07-28 08_27_49 - Edit Page BIOPIGEE.jpg)
 
-Notice the difference in the "Add elements" buttons, one is surrounded by a new inner section area, this is not what we want in this case:
+> Notice the difference in the "Add elements" buttons, one is surrounded by a new inner section area, this is not what we want in this case:
+{: .prompt-warning }
 ![Add element in new section button](/assets/img/2023-07-28 08_57_12 - Edit Page BIOPIGEE.jpg)
 
 This opens up the Element selection dialogue.  The tab we need is the "My Elements" tab where you will find several OHEJP elements.  These have been pre-configured to allow specific styling to be added to the make the content look a certain way, without then need for user intervention.  The first element is the Tabbed content element:
