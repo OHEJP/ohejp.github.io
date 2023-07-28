@@ -39,6 +39,9 @@ Clicking the "+" 'add element' button once again opens the Element selector dial
 
 Here you can add the text you wish to add for the project.
 
+Changing the order of tabs is simply a 'Drag & drop' affair:
+![Change order](/assets/img/2023-07-28 10_56_01 - tabbed - change order.jpg)
+
 
 
 
