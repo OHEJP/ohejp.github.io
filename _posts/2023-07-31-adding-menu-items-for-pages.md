@@ -32,8 +32,9 @@ To correctly position the menu item, you need to select and hold the menu item a
 
 This creates a Parent/Child connection which displays the menu item as a sub-menu item of the Parent.
 
-To further highlight this relationship, we need to add the right-pointing arrow icon for the menu item. Each menu item is configurable through the megmenu button which reveals itself when you hover over the menu item as shown in the image above.
-Click this to display the menu item options and select `Icon` from the menu on the left.  Type 'arrow' into the search box on the far left and select the right-pointing arrow icon from the available arrow icons:
+To further highlight this relationship, we need to add the right-pointing arrow icon for the menu item. Before we can do this you need to `Save Menu` first so that the new menu position is stored.
+
+Each menu item is configurable through the blue `Mega Menu` button which reveals itself when you hover over the menu item, as shown in the image above.  Click this to display the menu item options and select `Icon` from the menu on the left.  Type 'arrow' into the search box on the far left and select the right-pointing arrow icon from the available arrow icons:
 ![Adding an Icon](/assets/img/2023-07-31 11_45_27 - Menus-icon.jpg)
 
 This config is auto-saved, so you can close the Menu Item config dialogue and all there is to do now, is to `Save Menu`.
