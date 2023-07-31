@@ -1,7 +1,7 @@
 ---
 title: 'Using the Tab element for Projects'
 date: 2023-07-31 09:00:00 
-category: 'Posts & Pages'
+category: ['Content','Posts & Pages']
 tags: [pages,menu]
 ---
 

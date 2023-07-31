@@ -1,7 +1,7 @@
 ---
 title: 'Changing Titles or Slugs/Permalinks'
 date: 2023-04-20 09:00:00
-category: 'Post & Pages'
+category: ['Content','Posts & Pages']
 tags: [posts,pages,pagebuilder]
 ---
 
