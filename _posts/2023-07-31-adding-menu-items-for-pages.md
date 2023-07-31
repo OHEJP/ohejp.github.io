@@ -1,5 +1,5 @@
 ---
-title: 'Using the Tab element for Projects'
+title: 'Adding a menu item for a newly created page'
 date: 2023-07-31 09:00:00 
 category: ['Content','Posts & Pages']
 tags: [pages,menu]
@@ -8,7 +8,7 @@ tags: [pages,menu]
 # Adding a menu item for a newly created page
 
 In wordpress CMS, the menu is a seperate/stand-alone part of the site.  It does not automatically "add new pages".
-For OHEJP site, the menu, as close as is possible, has been structured with the same hierarchy as the Pages structure and the Post's categories.  To naturally organise the data presented.
+For OHEJP site, the menu, as close as is possible, has been structured with the same hierarchy/order as the Pages structure and the Post's categories.  This is done to naturally organise the site's content consistently.
 
 To add a new menu item, in the Admin area of the site, look for `Appearance` on the menu on the left and then select `Menu` under that.  This brings you to the Menu configuration page:
 
@@ -33,7 +33,8 @@ To correctly position the menu item, you need to select and hold the menu item a
 This creates a Parent/Child connection which displays the menu item as a sub-menu item of the Parent.
 
 To further highlight this relationship, we need to add the right-pointing arrow icon for the menu item. Each menu item is configurable through the megmenu button which reveals itself when you hover over the menu item as shown in the image above.
-Click this to display the menu item options and select `Icon` from the menu on the left.  Type 'arrow' into the search box on the far left and select the right-pointing arrow icon from the available arrow icons.
+Click this to display the menu item options and select `Icon` from the menu on the left.  Type 'arrow' into the search box on the far left and select the right-pointing arrow icon from the available arrow icons:
+![Adding an Icon](/assets/img/2023-07-31 11_45_27 - Menus-icon.jpg)
 
 This config is auto-saved, so you can close the Menu Item config dialogue and all there is to do now, is to `Save Menu`.
 
